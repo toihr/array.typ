@@ -1,0 +1,7 @@
+[package]
+name = "array"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["Tom Ihro"]
+license = "MIT"
+description = "This package has some functions to deal with arrays and arrays of arrays"
